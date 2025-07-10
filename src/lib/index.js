@@ -39,7 +39,8 @@ export const myProjects = [
     subDescription: [
       "Used a few built-in components from Aceternity UI - background_gradient, infinite_moving_cards.",
       "Developed a soothing UI and tone to keep the user experience interesting and welcoming.",
-      "",
+      "Designed the layout to be fully responsive across all screen sizes.",
+      "Deployed seamlessly using Vercel for continuous delivery and instant updates.",
     ],
     href: "https://github.com/Giga4byte/Portfolio_Gigabyte",
     logo: "",
