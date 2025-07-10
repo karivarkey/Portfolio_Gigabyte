@@ -41,7 +41,7 @@ export const myProjects = [
       "Developed a soothing UI and tone to keep the user experience interesting and welcoming.",
       "",
     ],
-    href: "",
+    href: "https://github.com/Giga4byte/Portfolio_Gigabyte",
     logo: "",
     image: "/assets/portfolio.png",
     tags: [
