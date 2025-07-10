@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black square background -->
+  <rect width="64" height="64" fill="#000000" />
+  
+  <!-- White "GB" text, centered and fully visible -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="36" 
+        fill="#ffffff" font-weight="bold">
+    GB
+  </text>
+</svg>
