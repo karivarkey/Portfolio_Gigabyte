@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and background as a [Your Role – e.g., Front-End Developer, UI/UX Designer, etc.]. It serves as both an introduction to who I am and a display of the work I’ve done.
+Welcome to my personal portfolio website! This project showcases my skills, projects. It serves as both an introduction to who I am and a display of the work I’ve done.
 
 
 ## 🛠 Tech Stack
