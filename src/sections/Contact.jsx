@@ -36,8 +36,6 @@ const Contact = () => {
             console.log(error)
             alert('Fail')
         }
-        //service_ey8ij7u
-        //template_y8978v5
     }
 
   return (
