@@ -22,13 +22,13 @@ const Contact = () => {
 
         try {
             console.log("Form Submitted:", formData);
-            await emailjs.send('service_ey8ij7u', 'template_y8978v5', {
+            await emailjs.send('SERVICE_KEY', 'TEMPLATE_KEY', {
                 from_name: formData.name,
                 to_name: 'Giribala',
                 from_email: formData.email,
                 to_email: 'u2203099@rajagiri.edu.in',
                 message: formData.message,
-            }, 'A0NK4Cz_oG_kUTJJ8');
+            }, 'ANOTHER_KEY');
             setIsLoading(false);
             alert('Success')
         } catch (error) {
