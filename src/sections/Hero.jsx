@@ -6,7 +6,7 @@ import Cloud from "../components/Stone3d"
 import React from 'react'
 
 const Hero = () => {
-  return <section className="flex items-start justify-center md:items-start min-h-screen overflow-hidden c-space">
+  return <section className="flex items-start justify-center md:items-start min-h-screen overflow-hidden c-space" id="home">
     <HeroText />
     <ParallexBackground />
     {/*<figure className='absolute inset-0 '

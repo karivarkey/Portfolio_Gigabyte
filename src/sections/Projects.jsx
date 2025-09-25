@@ -18,7 +18,9 @@ const Projects = () => {
 
   return <section 
   onMouseMove={handleMouseMove}
-  className='relative c-space section-spacing'>
+  className='relative c-space section-spacing'
+  id="work"
+  >
      <h2 className='text-4xl md:text-5xl font-bold text-center'>My Works</h2>
      <div className='bg-gradient-to-r from-transparent via-[#516968] to-transparent mt-6 w-full h-[1px]'/>
      {

@@ -39,7 +39,7 @@ const Contact = () => {
     }
 
   return (
-    <section className='c-space section-spacing'>
+    <section className='c-space section-spacing' id="contact">
       <div className='text-center items-center justify-center text-4xl'>
         <h2 className='text-4xl md:text-5xl font-bold text-white mt-0'>Contact Me</h2>
       </div>
